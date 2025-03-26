@@ -1,5 +1,3 @@
----
-
 # Vue Auth Frontend with Mock API
 
 **⚠️ 项目定位**  
