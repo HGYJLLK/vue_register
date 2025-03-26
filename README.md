@@ -1,4 +1,4 @@
-# Vue Auth Frontend with Mock API
+# vue_register
 
 **⚠️ 项目定位**  
 一个提供基础用户认证（登录/注册）前端实现的 Vue3 项目，附带模拟接口。  
